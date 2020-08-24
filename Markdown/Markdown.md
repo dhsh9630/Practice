@@ -115,7 +115,7 @@ http://www.google.com
 이미지
 -----
 
-![tux](./tux.png "리눅스 마스코드"){: width="10" height="10"}
+![tux](./tux.png "리눅스 마스코드" width="10" height="10")
 
 탈출문자
 ------
